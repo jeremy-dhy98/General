@@ -1,10 +1,14 @@
 # Ignore folders
-.vs\
-__pycache__\
-Include\
-Lib\
-Scripts\
-share\
+.vs/
+Lib/ 
+Scripts/
+__pycache__/
 # Ignore files
 *.un~
 *.py~
+.read_csv.py.un~
+mem_profiler.log
+pyvenv.cfg
+read_csv.py~
+share/
+       
