@@ -1,0 +1,10 @@
+# Ignore folders
+.vs\
+__pycache__\
+Include\
+Lib\
+Scripts\
+share\
+# Ignore files
+*.un~
+*.py~
